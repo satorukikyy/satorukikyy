@@ -1,19 +1,42 @@
-### Hi, I'm Rizky Aditya 👋
+### 👋 Hi there, I’m Rizky Aditya
 
-I'm an **IT GRC Junior Consultant** and **Pentester** with a passion for cybersecurity and information security management. 
-I specialize in helping organizations ensure compliance with standards like ISO 27001, managing risk, and implementing robust security frameworks. In my role as a pentester, I identify vulnerabilities in systems and provide actionable insights to enhance security postures.
+I'm an **IT GRC Junior Consultant** and **Cybersecurity Enthusiast** with hands-on experience in both **compliance frameworks** and **technical security assessments**.  
+At the intersection of governance and offensive security, I help organizations bridge the gap between regulatory requirements and real-world cyber threats.
 
-🔐 **Areas of Expertise**:
-- IT Governance, Risk, and Compliance (GRC)
-- Information Security Management Systems (ISMS)
-- Penetration Testing & Vulnerability Assessment
-- ISO 27001 Implementation and Audits
+---
 
-🚀 **Current Role**:
-I'm currently working as an **IT GRC Junior Consultant** at **Whitesec ID**, where I contribute to building secure, compliant environments for our clients.
+### 🔐 What I Do
+Currently contributing at **Whitesec ID**, where I:
+- Ensure alignment with global standards like **ISO/IEC 27001**
+- Conduct **penetration testing** and **vulnerability assessments**
+- Implement and optimize **Information Security Management Systems (ISMS)**
+- Translate complex cybersecurity issues into **actionable strategic insight**
 
-🌱 **Learning & Growth**:
-I'm constantly expanding my knowledge in IT security, governance, and emerging threats in the cybersecurity landscape.
+---
 
-📫 **Let's connect!** 
-Feel free to reach out to me if you're interested in cybersecurity topics or need advice on IT GRC and pentesting.
+### 💡 Core Competencies
+- ✅ IT Governance, Risk Management & Compliance (GRC)  
+- ✅ ISO 27001 Implementation & Internal Audits  
+- ✅ Penetration Testing & Security Assessments  
+- ✅ Risk Assessment & Incident Response  
+- ✅ Cybersecurity Awareness & Policy Development  
+
+---
+
+### 🚀 Growth Mindset
+I’m committed to continuous learning in:
+- 🛡️ Red Teaming & Threat Modeling  
+- ☁️ Cloud Security & DevSecOps Practices  
+- 📊 Cyber Risk Quantification  
+- 🔍 Latest compliance frameworks (ISO, NIST, COBIT, etc.)
+
+---
+
+### 🤝 Let’s Collaborate
+Whether you're building your security strategy from scratch or fine-tuning your risk posture — let's connect!
+
+
+---
+
+> _"Security isn’t a product — it’s a mindset."_
+
