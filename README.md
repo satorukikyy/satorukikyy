@@ -1,42 +1,40 @@
-### 👋 Hi there, I’m Rizky Aditya
+### 👋 Hey, I’m Rizky Aditya (Adit/Kikyy)
 
-I'm an **IT GRC Junior Consultant** and **Cybersecurity Enthusiast** with hands-on experience in both **compliance frameworks** and **technical security assessments**.  
-At the intersection of governance and offensive security, I help organizations bridge the gap between regulatory requirements and real-world cyber threats.
+I’m an **IT GRC Consultant** and **Security Researcher** who works at the intersection of **governance frameworks** and **technical offensive security**.
 
----
-
-### 🔐 What I Do
-Currently contributing at **Whitesec ID**, where I:
-- Ensure alignment with global standards like **ISO/IEC 27001**
-- Conduct **penetration testing** and **vulnerability assessments**
-- Implement and optimize **Information Security Management Systems (ISMS)**
-- Translate complex cybersecurity issues into **actionable strategic insight**
+Currently with **Whitesec ID**, I help organizations align with international standards like **ISO/IEC 27001**, conduct **penetration testing**, and deliver **risk-driven security strategies** that actually work in the field.
 
 ---
 
-### 💡 Core Competencies
-- ✅ IT Governance, Risk Management & Compliance (GRC)  
-- ✅ ISO 27001 Implementation & Internal Audits  
-- ✅ Penetration Testing & Security Assessments  
-- ✅ Risk Assessment & Incident Response  
-- ✅ Cybersecurity Awareness & Policy Development  
+### 🔧 What I Do
+- Implement and audit **ISMS (Information Security Management Systems)**
+- Map regulatory needs to real-world technical controls
+- Perform **web/app/network penetration testing**
+- Translate findings into **clear, actionable insights**  
+- Support internal teams with **security awareness & hardening guidance**
 
 ---
 
-### 🚀 Growth Mindset
-I’m committed to continuous learning in:
-- 🛡️ Red Teaming & Threat Modeling  
-- ☁️ Cloud Security & DevSecOps Practices  
-- 📊 Cyber Risk Quantification  
-- 🔍 Latest compliance frameworks (ISO, NIST, COBIT, etc.)
+### 🧠 Focus Areas
+- 🔐 GRC (Governance, Risk & Compliance) — ISO 27001, NIST, PDP
+- 🧪 Technical Security Testing — VAPT, threat validation, CVE research
+- 📋 Risk & Audit — assessments, registers, internal audit programs
+- ☁️ Cloud & SaaS Security — especially Microsoft 365 environments
+- 👨‍🏫 Security Enablement — policy, process, and team education
 
 ---
 
-### 🤝 Let’s Collaborate
-Whether you're building your security strategy from scratch or fine-tuning your risk posture — let's connect!
-
+### 📈 Learning In Public
+Always sharpening skills in:
+- 🥷 Threat Modeling & Red Team Tactics  
+- ☁️ Cloud-native Security & DevSecOps  
+- 📊 Risk Quantification & Business Impact Analysis  
+- 📚 International standards — ISO, NIST, COBIT, etc.
 
 ---
 
-> _"Security isn’t a product — it’s a mindset."_
+### 🤝 Let’s Collaborate  
+Need support with **compliance, audits**, or **realistic offensive testing**?  
+Let’s connect and build something secure — together.
 
+> _"Security isn’t a checklist — it’s culture by design."_
